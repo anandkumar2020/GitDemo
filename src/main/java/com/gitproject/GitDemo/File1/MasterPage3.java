@@ -4,7 +4,7 @@ public class MasterPage3 {
 
     public void MasterMain(){
 
-        System.out.println("Hello Master 3");
+        System.out.println("Hello Master");
     }
 
 }
